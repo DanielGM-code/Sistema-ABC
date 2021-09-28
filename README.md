@@ -1,3 +1,3 @@
 # Sistema-ABC
 
-El script y el reporte se encuentran en la carpeta principal del repositorio.
+El script y el reporte se encuentran en la carpeta "Documentación" dentro del repositorio.
