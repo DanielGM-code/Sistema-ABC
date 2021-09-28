@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="425.0" prefWidth="649.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Label layoutX="134.0" layoutY="65.0" prefHeight="42.0" prefWidth="111.0" text="Primer nombre:" />
+      <Label layoutX="134.0" layoutY="123.0" prefHeight="42.0" prefWidth="111.0" text="Segundo nombre:" />
+      <Label layoutX="134.0" layoutY="186.0" prefHeight="42.0" prefWidth="111.0" text="Primer apellido:" />
+      <Label layoutX="134.0" layoutY="246.0" prefHeight="42.0" prefWidth="111.0" text="Segundo apellido:" />
+      <Button fx:id="button_Aceptar" layoutX="280.0" layoutY="319.0" mnemonicParsing="false" onAction="#clickAceptar" prefHeight="42.0" prefWidth="90.0" text="Aceptar" />
+      <Label fx:id="label_PrimerNombre" layoutX="272.0" layoutY="65.0" prefHeight="42.0" prefWidth="258.0" text="Label" />
+      <Label fx:id="label_SegundoNombre" layoutX="272.0" layoutY="123.0" prefHeight="42.0" prefWidth="258.0" text="Label" />
+      <Label fx:id="label_PrimerApellido" layoutX="272.0" layoutY="186.0" prefHeight="42.0" prefWidth="258.0" text="Label" />
+      <Label fx:id="label_SegundoApellido" layoutX="272.0" layoutY="246.0" prefHeight="42.0" prefWidth="258.0" text="Label" />
+   </children>
+</AnchorPane>
